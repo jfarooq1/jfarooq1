@@ -1,8 +1,7 @@
 💫 About Me:
 -------------------------------
 - 👀 I’m interested in QA and Test Automation.
-- 💬 Ask me about automation testing
-- ⚡ Fun fact - I am lazy but smart
+- 💬 Ask me about automation.
 - 📫 How to reach me: jahanzabfarooq2@gmail.com
 
 <!---
