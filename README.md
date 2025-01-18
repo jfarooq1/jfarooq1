@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jfarooq1
+💫 About Me:
+-------------------------------
 - 👀 I’m interested in QA and Test Automation.
 - 💬 Ask me about automation testing
 - ⚡ Fun fact - I am lazy but smart
