@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jfarooq1
 - 👀 I’m interested in QA and Test Automation.
-- 🌱 I’m currently learning Cypress and CI/CD.
+- 💬 Ask me about automation testing
+- ⚡ Fun fact - I am lazy but smart
 - 📫 How to reach me: jahanzabfarooq2@gmail.com
 
 <!---
