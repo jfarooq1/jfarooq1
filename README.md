@@ -1,8 +1,8 @@
 💫 About Me:
 -------------------------------
-- 👀 I’m interested in QA and Test Automation.
-- 💬 Ask me about automation.
-- 📫 How to reach me: jahanzabfarooq2@gmail.com
+ 👀 I’m interested in QA and Test Automation.
+ 💬 Ask me about automation.
+ 📫 How to reach me: jahanzabfarooq2@gmail.com
 
 <!---
 jfarooq1/jfarooq1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
